@@ -1,0 +1,11 @@
+{
+  "version": "1.0.2",
+  "url": "https://scythecode-studios.tebex.io/package/7228070",
+  "downloadUrl": "https://portal.cfx.re/",
+  "changes": [
+    "Fixed starter vehicle plate mismatch for garage storage on qbox",
+    "Added Config Options",
+    "Added version checker",
+    "Fixed wasai_carlock not giving keys"
+  ]
+}
